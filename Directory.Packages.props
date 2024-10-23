@@ -6,5 +6,12 @@
     See https://aka.platform.uno/using-uno-sdk#implicit-packages for more information regarding the Implicit Packages.
   -->
   <ItemGroup>
+    <PackageVersion Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageVersion Include="Faker.Net" Version="2.0.163" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
+    <PackageVersion Include="MySql.Data" Version="9.0.0" />
+    <PackageVersion Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.2" />
+    <PackageVersion Include="Swashbuckle.AspNetCore" Version="6.7.3" />
+    <PackageVersion Include="System.IdentityModel.Tokens.Jwt" Version="8.0.2" />
   </ItemGroup>
 </Project>
